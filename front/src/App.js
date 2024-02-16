@@ -1,19 +1,21 @@
 import './App.css';
-import Appbar from "./components/Appbar";
 import Person from "./components/Person";
 import React from "react";
-
-import bers from "./img/bers.jpg"
+import SomeInformation from "./components/SomeInformation";
 
 function App() {
     return (
         <body>
+        <head>
+            <link rel="preconnect" href="https://fonts.googleapis.com"/>
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin/>
+            <link href="https://fonts.googleapis.com/css2?family=Bad+Script&display=swap" rel="stylesheet"/>
+        </head>
         <div className="page">
 
             <div>
-                <Appbar/>
+                <SomeInformation/>
                 <Person/>
-
             </div>
 
         </div>

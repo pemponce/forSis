@@ -16,5 +16,4 @@ public class Person {
     private String name;
     @Column(name = "another_name")
     private String anotherName;
-    private String preferences;
 }
