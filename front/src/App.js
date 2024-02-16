@@ -2,6 +2,7 @@ import './App.css';
 import Person from "./components/Person";
 import React from "react";
 import SomeInformation from "./components/SomeInformation";
+import TextAndDataInformation from "./components/TextAndDataInformation";
 
 function App() {
     return (
@@ -15,6 +16,7 @@ function App() {
 
             <div>
                 <SomeInformation/>
+                <TextAndDataInformation/>
                 <Person/>
             </div>
 

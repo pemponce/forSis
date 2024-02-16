@@ -49,6 +49,27 @@
   background-size: auto;
 }
 
+h1 {
+  font-family: "Bad Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4rem;
+  color: #6d4e1e;
+  text-align: center;
+}
+
+.textContent {
+  font-family: "Bad Script", cursive;
+  font-weight: 150;
+  font-style: normal;
+  font-size: 1.4rem;
+  color: #6d4e1e;
+  text-align: center;
+}
+
+.css-1u23akw-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+  background-color: #966d3b !important;
+}
 
 .ImgK {
   margin: auto;
