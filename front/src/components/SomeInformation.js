@@ -19,7 +19,11 @@ export default function SomeInformation() {
                 <Box>
                     <div className="ImgK">
                         <div className="VladKarina">
-                            Влад <tr/>И <tr/> Карина
+                            Влад
+                            <tr/>
+                            И
+                            <tr/>
+                            Карина
                         </div>
                     </div>
                 </Box>

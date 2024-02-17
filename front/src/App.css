@@ -68,7 +68,32 @@ h1 {
 }
 
 .css-1u23akw-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
-  background-color: #966d3b !important;
+  background-color: #ad8d5f !important;
+
+}
+
+.css-3su884-MuiPaper-root {
+  padding: 50px 5px !important;
+}
+
+.css-0 {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.css-9reuh9-MuiPickersArrowSwitcher-root {
+  opacity: 0 !important;
+  display: none !important;
+}
+
+.css-cyfsxc-MuiPickersCalendarHeader-labelContainer {
+  font-family: "Bad Script", cursive !important;
+  font-weight: 250 !important;
+  line-height: 1.2 !important;
+  font-style: normal !important;
+  font-size: 1.9rem !important;
+  margin: auto !important;
+  cursor: default !important;
 }
 
 .ImgK {
