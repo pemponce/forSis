@@ -30,8 +30,6 @@ export default function Person() {
 
     return (<Container>
         <Paper elevation={3} style={paperStyle}>
-            {/*<SomeInformation/>*/}
-
             <Box>
                 <TextField id="outlined-basic" label="Имя и Фамилия" variant="outlined" style={formStyle} fullWidth
                            value={name}

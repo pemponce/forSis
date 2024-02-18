@@ -4,10 +4,6 @@ import SomeInformation from "./components/SomeInformation.js";
 import DayPlan from "./components/DayPlan.js";
 import Person from "./components/Person.js";
 import TextAndDateInformation from "./components/TextAndDateInformation.js";
-// import Person from "./components/Person";
-// import SomeInformation from "./components/SomeInformation";
-// import TextAndDataInformation from "./components/TextAndDataInformation";
-// import DayPlan from "./components/DayPlan";
 
 
 function App() {
