@@ -77,7 +77,7 @@ export default function DayPlan() {
                                 </td>
                                 <td>
                                     <div className="tdContent">
-                                        <h4 style={H4Style}>Завершение вечера</h4>
+                                        <h4 style={H4Style}>Конец Банкета</h4>
                                         <tr>К сожалению, даже такой волшебный вечер может закончиться</tr>
                                     </div>
                                 </td>

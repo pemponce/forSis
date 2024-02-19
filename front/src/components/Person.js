@@ -34,7 +34,7 @@ export default function Person() {
                 <TextField id="outlined-basic" label="Имя и Фамилия" variant="outlined" style={formStyle} fullWidth
                            value={name}
                            onChange={(e) => setName(e.target.value)}/>
-                <TextField id="outlined-basic" label="С кем вы будете?" variant="outlined" style={formStyle} fullWidth
+                <TextField id="outlined-basic" label="С кем вы будете? (имя, фамилия)" variant="outlined" style={formStyle} fullWidth
                            value={anotherName}
                            onChange={(e) => setAnotherName(e.target.value)}/>
 
